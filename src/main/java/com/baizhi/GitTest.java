@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("哈哈哈");
         System.out.println("我在Idea!!!");
         System.out.println("2019/09/18 19:15");
+        System.out.println("000000000");
     }
 }

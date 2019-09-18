@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("444444--2.0");
         System.out.println("我在github");
         System.out.println("哈哈哈");
+        System.out.println("我在Idea!!!");
     }
 }
